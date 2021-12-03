@@ -12,4 +12,4 @@ Numpy                     1.19.5\
 scikit-learn              1.0.1 \
 pandas                    1.3.4\
 scipy                     1.7.1\
-scikit-learn-intelex      2021.2.2\
+scikit-learn-intelex      2021.2.2
