@@ -9,7 +9,7 @@ If you find this tool is usefull, we will be glad if you can cite us in your pap
 Recommended Packages:\
 Python 3.6+\
 Numpy                     1.19.5\
-scikit-learn              1.0.1\          
+scikit-learn              1.0.1 \
 pandas                    1.3.4\
 scipy                     1.7.1\
 scikit-learn-intelex      2021.2.2\
