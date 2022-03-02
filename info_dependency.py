@@ -23,7 +23,7 @@ def fea_lable_muin(directory, standardize = False, plot_fig = True):
     ******************************************************
     directory: the relative directory to the target data. 
             The data should be in the form of a matrix, where each row is a data sample.
-            The leftmost column is the feature, and start from column 1, each column stands for a feature / random varible.
+            The leftmost column is the label, and start from column 1, each column stands for a feature / random varible.
             The data is preferred to be stored as the .csv file. You may modify the line 32 for reading different format.
     standardize: whether standardize the feature.
     plot_fig: whethre plot the result.
